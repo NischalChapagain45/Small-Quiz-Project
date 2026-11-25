@@ -1,3 +1,4 @@
+#Importing time module
 import time
 
 questions = ("Which is the most closest planet to the sun?",
